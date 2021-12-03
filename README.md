@@ -1,2 +1,3 @@
 # git-playground
-막쓰셈
+
+깃 공부 시작~
